@@ -1,0 +1,49 @@
+* {
+    background-color: aquamarine;
+}
+
+.h1 {
+    margin-left: 35%;
+    border: 2px solid black;
+    display: inline-block;
+    background-color: blue;
+}
+
+.formx {
+    margin-top: 3rem;
+    margin-left: 35%;
+}
+
+.btn {
+    margin-left: 10%;
+    margin-top: 3rem;
+    border-radius: 2em;
+    cursor: pointer;
+    background-color: brown;
+}
+
+.btn:hover {
+    color: red;
+    background-color: blue;
+}
+
+.name {
+    border-radius: 2em;
+}
+
+.output {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.flexbox {
+    border: 5px solid black;
+    border-radius: 2em;
+    background-color: lightblue;
+    height: 200px;
+    width: 300px;
+    padding: 2em 2em 2rem 2rem;
+    margin-top: 50px;
+    right: 50%;
+}
